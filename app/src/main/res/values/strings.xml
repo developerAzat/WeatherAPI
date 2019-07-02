@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FirstProject</string>
+    <string name="title_activity_add_city">AddCityActivity</string>
+</resources>
